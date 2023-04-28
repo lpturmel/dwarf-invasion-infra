@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "./apps/webhook",
+    "./apps/log_finder",
+    "./apps/secrets",
+    "./apps/raiderio_cache"
+]

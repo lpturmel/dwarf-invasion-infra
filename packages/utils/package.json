@@ -1,0 +1,14 @@
+{
+    "name": "utils",
+    "version": "0.0.0",
+    "license": "MIT",
+    "main": "./index.tsx",
+    "types": "./index.tsx",
+    "private": true,
+    "devDependencies": {
+        "typescript": "^4.7.4"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}
